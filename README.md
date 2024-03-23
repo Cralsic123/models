@@ -1,3 +1,28 @@
+# I have modified the box_io to store the bounding box coordinates
+
+# Copy the outer existing box_io.py to the inner directory in the Python/examples
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
   <img src="https://storage.googleapis.com/tf_model_garden/tf_model_garden_logo.png">
 </div>
