@@ -1,4 +1,4 @@
-# Hi My name is Shuvam Das. This is my personal modified form of the tensorflow/models. I have modified the box_io to store the bounding box coordinates
+# Hi My name is Shuvam Das. This is my personal modified form of the tensorflow/models. I have modified the box_io.py to store the bounding box coordinates
 
 # Copy the outer existing box_io.py to the inner directory in the Python/examples
 
